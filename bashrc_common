@@ -1,0 +1,9 @@
+
+alias rm="rm -i"
+alias cp="cp -i"
+alias mv="mv -i"
+
+alias grep='grep --color=auto --binary-files=without-match --directories=skip"
+
+export LESS=FRXd
+
